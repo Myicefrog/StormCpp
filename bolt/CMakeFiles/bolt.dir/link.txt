@@ -1,0 +1,1 @@
+/usr/bin/g++   -g -std=c++11   CMakeFiles/bolt.dir/home/luguang/demo/StormCpp/public/Storm.cpp.o CMakeFiles/bolt.dir/SplitSentenceTest.cpp.o  -o bolt -rdynamic -ljsoncpp 

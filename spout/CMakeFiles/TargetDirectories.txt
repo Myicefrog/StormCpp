@@ -1,0 +1,3 @@
+/home/luguang/demo/StormCpp/spout/CMakeFiles/rebuild_cache.dir
+/home/luguang/demo/StormCpp/spout/CMakeFiles/edit_cache.dir
+/home/luguang/demo/StormCpp/spout/CMakeFiles/spout.dir

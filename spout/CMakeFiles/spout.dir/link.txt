@@ -1,0 +1,1 @@
+/usr/bin/g++   -g -std=c++11   CMakeFiles/spout.dir/home/luguang/demo/StormCpp/public/Storm.cpp.o CMakeFiles/spout.dir/SplitSentenceSpoutTest.cpp.o  -o spout -rdynamic -ljsoncpp 
